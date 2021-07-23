@@ -1,5 +1,5 @@
 export default {
-  Snorlax: {
+  cake: {
     56: '0xe65a6f35ede81fdeb98d75f9c72d7b8d22506896',
     97: '',
   },
