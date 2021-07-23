@@ -1,10 +1,10 @@
 export default {
-  cake: {
-    56: '0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6',
+  Snorlax: {
+    56: '0xe65a6f35ede81fdeb98d75f9c72d7b8d22506896',
     97: '',
   },
   masterChef: {
-    56: '0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57',
+    56: '0x4B7945862f5Ff7f19EdeF54824D220Eb8aFf61b5',
     97: '',
   },
   wbnb: {
